@@ -10,7 +10,7 @@ Multiplication
 a = 4
 b = 12
 
-c = 4 * 12
+c = a * b
 print("c equals " + str(c))
 
 d = 6
